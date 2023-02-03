@@ -142,7 +142,7 @@ function Calender() {
         // .catch((err)=>toast.error(err.response.data));
         // toast.success(" Booked SUccessfully");
         // const api = calendarRef.current.getApi();
-        // api.addEvent(event);
+        // api.addEvent(event)
       }
     }
   }
