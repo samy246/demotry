@@ -157,7 +157,7 @@ function Calender() {
     <>
       <ToastContainer theme="colored"></ToastContainer>
 
-      <h2>Welcome To Beauty Saloon 
+      <h2>Welcome To Beauty Saloon Shop
 
 
 
